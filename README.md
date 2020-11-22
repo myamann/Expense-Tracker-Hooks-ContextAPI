@@ -1,4 +1,4 @@
-# Shopping-Cart-Hooks-ContextAPI
+# Expense-Tracker-Hooks-ContextAPI
 Created with ReactJs
 - Hooks
 - ContextAPI
